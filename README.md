@@ -1,6 +1,3 @@
-Here's a polished, GitHub-ready `README.md` for the project. Save it as `README.md` in your repo root, next to `index.html`.
-
-````markdown
 <div align="center">
 
 # ✦ Kept.
